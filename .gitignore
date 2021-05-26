@@ -1,7 +1,3 @@
-main.tf
-terraform.tfvars
-.terraform.lock.hcl
-
 # Local .terraform directories
 **/.terraform/*
 
