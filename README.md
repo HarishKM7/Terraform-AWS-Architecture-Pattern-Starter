@@ -1,3 +1,3 @@
-# AWS Terraform Modules Starter
+# Terraform AWS Architecture Pattern Starter
 
-A blank starter template for building Terraform modules for AWS.
+A starter template for building commonly-used AWS architecture patterns in Terraform.
